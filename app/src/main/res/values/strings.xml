@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Explicit Activity</string>
+    <string name="ask">Enter Message To Send</string>
+    <string name="implicit">Call Implicit Intent</string>
+    <string name="explicit">Call Explicit Intent</string>
+    <string name="act2">This is another Activity</string>
+    <string name="downloader">Download a file</string>
+    <string name="ch1">Image</string>
+    <string name="ch2">Song</string>
+    <string name="ch3">PDF</string>
+</resources>
